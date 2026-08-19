@@ -37,7 +37,7 @@ as our last step, not to add lag to the game.
 **KUSER_SHARED_DATA** (however we only need the first 5 entries of this structure)
 
 For further elaboration on this idea, I suggest you look over the project code,
-which I have made compatible with Windows 11 22H2, ... (still works as of 2026/08/19)
+which I have made compatible with Windows 11 24H2, ... (still works as of 2026/08/19)
 
 In hopes someone finds purpose with it,
 
